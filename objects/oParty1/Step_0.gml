@@ -14,7 +14,7 @@ if (midwalk = 1)
 	walkAnimProgress += delta_time / 1000000;
 	var _numt = walkAnimProgress / walkAnimLength;
 	image_index += animSpeed;
-	
+	if (image_index = 4) image_index = 0;
 	if (_numt >= 1) {
 		walkAnimProgress = 0;
 		_numt = 1;

@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "CnD-RPG",
-    "path": "CnD-RPG.yyp",
+    "name": "cndproject (1)",
+    "path": "cndproject (1).yyp",
   },
   "resourceVersion": "1.0",
   "name": "oDummy",
