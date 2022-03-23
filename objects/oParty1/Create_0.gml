@@ -31,7 +31,7 @@ yfrom = ypos;
 xto = xpos;
 yto = ypos;
 
-walkAnimLength = 0.2;
+walkAnimLength = 0.1;
 walkAnimProgress = 0;
 animSpeed = walkAnimLength / 2;
 
