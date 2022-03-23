@@ -1,0 +1,1 @@
+draw_sprite(portrait, background, x1, y1);
